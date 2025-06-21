@@ -4,9 +4,7 @@ Aplicativo para ingresar y verificar clientes, pedidos, y la cantidad que van a 
 
 ![Captura de pantalla 2024-06234-26 030513](https://github.com/Hack-Gamer001/Aplicaciones_Moviles/tree/main/G16-proyecto-aplicativo-taqueria/assets/119648000/f0b64bad-b761-4d0f-ba0d-9b33c261b1d6)
 
-
-
-https://github.com/Hack-Gamer001/G16-proyecto-aplicativo-taqueria/assets/119648000/37ec0007-ef0b-4208-8caf-7803b662aced
+![image](https://github.com/user-attachments/assets/1ad0a01e-4b60-4a07-80ae-2ec21d057fe4)
 
 
 
