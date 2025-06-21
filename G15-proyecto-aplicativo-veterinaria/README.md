@@ -1,1 +1,4 @@
-![image](https://github.com/Hack-Gamer001/G15-proyecto-aplicativo-veterinaria/assets/119648000/4880a7b6-1ae0-417a-b2b0-c90c6d506721)
+En este aplicativo es registrop para citas de atencion de mascotas para una veterinaria
+
+![image](https://github.com/user-attachments/assets/3d430b7b-1d03-4abe-bf4d-dcc924a31e76)
+
