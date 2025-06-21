@@ -8,3 +8,7 @@ Aplicativo para ingresar y verificar clientes, pedidos, y la cantidad que van a 
 
 https://github.com/Hack-Gamer001/G16-proyecto-aplicativo-taqueria/assets/119648000/37ec0007-ef0b-4208-8caf-7803b662aced
 
+
+
+https://github.com/user-attachments/assets/487df30d-4358-4ec1-b048-395bc39855e0
+
